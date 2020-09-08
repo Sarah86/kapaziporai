@@ -39,7 +39,7 @@ a:after {
   background: #00AA97;
 }
 a:hover {
-  color: #0078bb;
+  color: #00AA97;
 }
 
 /* Default Form Style */
@@ -53,8 +53,8 @@ a:hover {
   border: 1px solid #00AA97;
 }
 .def-btn.btn-solid:hover {
-  background: #0078bb;
-  border: 1px solid #0078bb;
+  background: #00AA97;
+  border: 1px solid #00AA97;
 }
 .def-btn.btn-outline {
   border: 2px solid #00AA97;
@@ -405,7 +405,7 @@ a:hover {
 
 /* Team Slider Style */
 .team-slider-wrap .team-slider-nav .slick-slide.team-photo .overlay {
-  background: rgba(0, 153, 238, 0.8);
+  background: rgba(0, 170, 151, 0.8);
 }
 .team-slider-wrap .team-slider .slider-content .text-section .title h3 {
   color: #00AA97;
@@ -441,7 +441,7 @@ a:hover {
   border-top: 40px solid #00AA97;
 }
 .shop-column .image .overlay .button-wrap a.btn-solid:hover:after {
-  border-top: 40px solid #0078bb;
+  border-top: 40px solid #00AA97;
 }
 .shop-column .bottom-text .price {
   background: #00AA97;
@@ -608,7 +608,7 @@ footer .copyright .left-section:after {
 
 /*---Portfolio single custom components---*/
 .portfolio-single .related-project .overlay {
-  background: rgba(0, 153, 238, 0.5);
+  background: rgba(0, 170, 151, 0.5);
 }
 
 /*---Error 404 custom components---*/

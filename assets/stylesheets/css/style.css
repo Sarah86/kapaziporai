@@ -12,6 +12,19 @@
 	Add your own style here!
 */
 /*==========================================*/
+
+/*Menu*/
+.navbar .container{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+/*Banner*/
+.banner.carousel .carousel-inner .item .content .image-content {
+  max-width: 400px;
+}
+
 /*==========================================*/
 /* CSS Document */
 /*
